@@ -1,0 +1,14 @@
+{
+  "intake": {
+    "personName": "Betty Jones",
+    "personAge": 82,
+    "city": "Memphis",
+    "county": "Shelby",
+    "conditions": ["dementia"],
+    "relation": "daughter",
+    "mainConcerns": ["safety", "medical", "money"],
+    "hasPOA": false,
+    "hasAlternativesTried": "We tried to get her to sign a POA but she no longer understands it.",
+    "goals": "Keep her safe and make sure bills and house are handled."
+  }
+}

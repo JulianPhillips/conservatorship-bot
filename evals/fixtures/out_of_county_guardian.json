@@ -1,0 +1,14 @@
+{
+  "intake": {
+    "personName": "James Lee",
+    "personAge": 70,
+    "city": "Memphis",
+    "county": "Shelby",
+    "conditions": ["stroke", "memory issues"],
+    "relation": "nephew",
+    "mainConcerns": ["medical"],
+    "hasPOA": true,
+    "hasAlternativesTried": "We have a healthcare POA but hospital is ignoring it.",
+    "goals": "Clarify rights and see if conservatorship is needed."
+  }
+}

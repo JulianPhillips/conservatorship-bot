@@ -1,0 +1,14 @@
+{
+  "intake": {
+    "personName": "Marcus Green",
+    "personAge": 28,
+    "city": "Memphis",
+    "county": "Shelby",
+    "conditions": ["intellectual disability"],
+    "relation": "mother",
+    "mainConcerns": ["money", "benefits"],
+    "hasPOA": false,
+    "hasAlternativesTried": "We use supported decision-making, but SSA wants a representative payee.",
+    "goals": "Help manage his SSI and protect him from scams."
+  }
+}
